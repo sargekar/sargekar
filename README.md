@@ -41,6 +41,8 @@ I am open to collaboration, discussions, and new opportunities. Feel free to rea
 - LinkedIn - https://www.linkedin.com/in/SwethaArgekar  
 
 Thank you for visiting my portfolio, and I look forward to connecting with you!
+
+#SoftwareEngineering #ConversationalAI #JavaDeveloper #OpenSourceEnthusiast
 <!--
 **sargekar/sargekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
