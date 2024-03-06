@@ -1,6 +1,6 @@
 ### Hi there 😄 ###
 <!--### Introduction  -->
-Welcome to my GitHub repository showcasing my journey as a skilled software developer with a focus on data science. With over 5 years of experience, I have honed my skills in both software engineering and data analysis, and this portfolio serves as a testament to my capabilities.
+Welcome to my GitHub repository showcasing my journey as a skilled software developer with a focus on data science. With over 5 years of experience, I have honed my skills in both software engineering and data analysis.
 
 ### About Me
 I am a passionate and dedicated software developer with a strong background in data science. My journey in the field has allowed me to work on a diverse range of projects, from building robust software applications to extracting meaningful insights from complex datasets.
