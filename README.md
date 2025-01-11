@@ -1,4 +1,4 @@
-### Hi there 😄 ###
+### Hello! ###
 <!--### Introduction  -->
 Welcome to my GitHub repository showcasing my journey as a skilled software developer with a focus on data science. With over 5 years of experience, I have honed my skills in both software engineering and data analysis.
 
@@ -18,7 +18,7 @@ Description: Conducted sentiment analysis on Twitter data to understand public o
 
 Technologies: Python, NLTK, Tweepy, Plotly, Dash
 ### 3. E-commerce Website with User Personalization
-Description: Led a team to develop a personalized e-commerce platform that recommended products based on user behavior and preferences. Implemented collaborative filtering algorithms and integrated them into the website's frontend.
+Description:Developed a personalized e-commerce platform that recommended products based on user behavior and preferences. Implemented collaborative filtering algorithms and integrated them into the website's frontend.
 
 Technologies: Python, Django, JavaScript, HTML/CSS, PostgreSQL
 ### 4. Automated Data ETL Pipeline
