@@ -1,28 +1,4 @@
-### Hi there 👋
-Welcome to my page!
 
-I'm Swetha Argekar.
-<!--learning ML/DL without falling on my bottom. Open to collaborating on interesting and innovative projects.<!-->
-
-Languages
-Java, Python, Node.js, JavaScript, HTML/CSS, SQL,C, R
-
-ML/DL
-Pandas NumPy MLFlow Scikit-Learn PyTorch SciPy Matplotlib
-
-Technologies & Frameworks
-Spring, Hibernate, Flask, Express, OpenCV, Postman, Eclipse, STS, Visual Studio, Jira, GIT/GitHub, IIB, jQuery, JDBC, IBM MQ, Toad, JBoss Studio, OpenCV, Rally, MATLAB, MQ Explorer, Maven, TensorFlow, Firebase, Redis, Jenkins, Docker, Kuberneted
-Django React HTML5 CSS3 Docker
-
-OS
-Linux Windows iOS
-
-Certifications
-AWS, Python for Data science, Lean Certification
-
- 3D  Artificial Intelligence  Automation  Awesome Lists  beginner-friendly  CSS  HTML  JavaScript  Machine learning  mobile-development  Open Source  Python  React  Ruby  tutorials  TypeScript  Virtual reality More topics
- 
- 
  <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
@@ -49,10 +25,10 @@ AWS, Python for Data science, Lean Certification
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
-[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/wervlad)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
+[![Node.js](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/wervlad)
+[![C](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
+[![Bash](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
+[![NoSQL](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
 
 ### ML/DL
@@ -66,6 +42,7 @@ AWS, Python for Data science, Lean Certification
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/wervlad)
+[![Springboot](https://img.shields.io/badge/Spring%20Boot-4.0.2-ED8B00?style=for-the-badge&labelColor=6db33f&color=808080&logo=Spring%20Boot&logoColor=white[Spring)](https://github.com/wervlad)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
