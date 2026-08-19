@@ -5,7 +5,7 @@ I'm Swetha Argekar.
 <!--learning ML/DL without falling on my bottom. Open to collaborating on interesting and innovative projects.<!-->
 
 Languages
-Java, Python, Node.js, JavaScript, HTML/CSS, SQL,C, R
+Java, Python, Node.js, JavaScript, HTML/CSS, SQL,C
 
 ML/DL
 Pandas NumPy MLFlow Scikit-Learn PyTorch SciPy Matplotlib
